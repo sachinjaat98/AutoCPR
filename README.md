@@ -21,8 +21,7 @@ We are designing a compact, ergonomic, easy to deploy CPR device which is fully 
 • This information will be sent into the CPR mechanism, which will allow our CPR compression system to react to changes.
 • Developing a modular product to integrate with existing systems/devices for better results. Reducing the number of rescuers needed to perform CPR at a cardiac arrest.
 
-<img width="1216" height="992" alt="image" src="https://github.com/user-attachments/assets/e35fc568-ac3e-4e82-af7d-6a7d3b379568" />
-![5](https://github.com/user-attachments/assets/d8363686-067c-4d35-b2f3-b3f6b7d4bea7)
-<img width="1536" height="657" alt="CPR feedback" src="https://github.com/user-attachments/assets/6a09b893-5934-4fa5-94b9-2a2c67f1b9da" />
+<img width="720" height="640" alt="image" src="https://github.com/user-attachments/assets/e35fc568-ac3e-4e82-af7d-6a7d3b379568" />
+<img width="720" height="640" alt="CPR feedback" src="https://github.com/user-attachments/assets/6a09b893-5934-4fa5-94b9-2a2c67f1b9da" />
 
 
